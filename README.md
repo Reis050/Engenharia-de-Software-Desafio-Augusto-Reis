@@ -7,4 +7,6 @@
 Quando você executar o codigo pela primeira vez, ele vai solicitar que você autorize o acesso:
 Se você ainda não tiver feito login na sua Conta do Google, faça login quando solicitado. Se você tiver feito login em várias contas, selecione uma para usar na autorização.
 Clique em Aceitar.
-  
+
+link da planilha google
+https://docs.google.com/spreadsheets/d/1Lp2k-ZstPwuHw_iCK7E_DSxz7mGL03fc6AkI7QKnqyg/edit?usp=sharing
