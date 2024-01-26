@@ -1,6 +1,7 @@
- 1 -> Instale a biblioteca de cliente do Google para Python no diretório de trabalho:
+ 1 ->No diretório de trabalho execute:
+           cd sheets
+           cd quickstart
            pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib 
- 2 -> No diretório de trabalho execute:
            python quickstart.py
 
 Quando você executar o codigo pela primeira vez, ele vai solicitar que você autorize o acesso:
